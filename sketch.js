@@ -60,7 +60,7 @@ function setCondition() {
 	background(255);
 	strokeWeight(1);
 	stroke(0, 3);
-	noiseDetail(35, 0.5);
+	noiseDetail(35, 0.3);
 }
 
 function setFlowGrid() {
