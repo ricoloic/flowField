@@ -1,5 +1,5 @@
 function Flow() {
-  this.vec = 0;
+  this.vec = createVector(0, 0);
 }
 
 Flow.prototype.update = function(xoff, yoff, zoff) {
